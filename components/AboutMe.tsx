@@ -25,10 +25,10 @@ const Aboutme = () => {
                 </div>
                 <div className='flex-1'>
                     <h2 className='text-4xl font-bold mb-4 text-amber-500'>About Me</h2>
-                    <p className='mb-6 text-gray-300'>
+                    <p className='mb-6 text-gray-500'>
                         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis sed rerum debitis magni voluptas iure voluptate illum eaque neque impedit enim repellendus quo pariatur, libero ad inventore officiis, atque laboriosam.
                     </p>
-                    <p className='mb-6 text-gray-300'>
+                    <p className='mb-6 text-gray-500'>
                         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis sed rerum debitis magni voluptas iure voluptate illum eaque neque impedit enim repellendus quo pariatur, libero ad inventore officiis, atque laboriosam.
                     </p>
 

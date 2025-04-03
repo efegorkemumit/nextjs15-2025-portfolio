@@ -2,6 +2,7 @@ import Aboutme from "@/components/AboutMe";
 import Fast from "@/components/Fast";
 import Hero from "@/components/Hero";
 import { ModeToggle } from "@/components/ModeToggle";
+import Service from "@/components/Service";
 import { Button } from "@/components/ui/button";
 import Image from "next/image";
 
@@ -11,6 +12,7 @@ export default function Home() {
     <Hero/>
     <Fast/>
     <Aboutme/>
+    <Service/>
    </div>
   );
 }
