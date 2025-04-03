@@ -63,7 +63,7 @@ const servicesData = [
 ];
 const Service = () => {
     return (
-        <section className='py-10'>
+        <section className='py-10' id='services'>
             <div className='max-w-6xl mx-auto px-4'>
                 <div className='text-center mb-10'>
                     <h2 className='text-4xl text-amber-500 font-bold'>Services</h2>

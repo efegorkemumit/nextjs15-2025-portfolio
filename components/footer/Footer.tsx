@@ -4,7 +4,7 @@ import { FaFacebookF, FaInstagram, FaLinkedinIn, FaTwitter, FaYoutube } from 're
 
 const Footer = () => {
   return (
-    <footer className='border-t border-amber-500 text-black dark:text-white py-8'>
+    <footer id='contact' className='border-t border-amber-500 text-black dark:text-white py-8'>
       <div className='max-w-6xl mx-auto px-4 grid grid-cols-1 md:grid-cols-3 gap-8'>
 
         <div>

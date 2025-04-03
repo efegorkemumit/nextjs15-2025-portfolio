@@ -10,7 +10,7 @@ const Aboutme = () => {
         { name: "Graphic Design", percent: 70 },
     ];
     return (
-        <section className='py-16'>
+        <section id='about' className='py-16'>
             <div className='max-w-screen-xl mx-auto px-4 flex flex-col md:flex-row items-center md:items-start gap-10'>
                 <div className='flex'>
                     <Image

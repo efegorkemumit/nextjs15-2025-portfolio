@@ -64,7 +64,7 @@ const testimonialData = [
 
 const Testimonial = () => {
     return (
-        <section className='py-10'>
+        <section className='py-10' id='testimonials'>
             <div className='w-full mx-auto px-4'>
                 <h2 className='text-4xl text-center text-amber-500 font-bold'>Testimonial</h2>
                 <p className='text-gray-500 text-center mt-2 mb-8'>

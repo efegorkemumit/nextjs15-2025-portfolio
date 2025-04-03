@@ -66,7 +66,7 @@ const Project = () => {
 
 
     return (
-        <section className='py-10'>
+        <section className='py-10' id='projects'>
             <div className='max-w-6xl mx-auto px-4'>
                 <Container maxWidth="lg" sx={{ py: 8 }}>
                     <Box textAlign="center" mb={4}>
