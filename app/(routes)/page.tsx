@@ -1,3 +1,4 @@
+import Aboutme from "@/components/AboutMe";
 import Fast from "@/components/Fast";
 import Hero from "@/components/Hero";
 import { ModeToggle } from "@/components/ModeToggle";
@@ -9,6 +10,7 @@ export default function Home() {
    <div className="mt-24">
     <Hero/>
     <Fast/>
+    <Aboutme/>
    </div>
   );
 }

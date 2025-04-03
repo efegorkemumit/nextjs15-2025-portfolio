@@ -40,7 +40,7 @@ const Hero = () => {
                 </div>
 
                 <div className='flex-1 flex flex-col justify-center items-center'>
-                    <div className='relative w-64 h-64 md:h-80 lg:w-80'>
+                    <div className='relative w-64 h-64 md:h-80 lg:w-[450px]'>
                         <Image
                             src="/profile.jpg"
                             alt="Profile Photo"
@@ -51,7 +51,7 @@ const Hero = () => {
                         />
 
                     </div>
-                    <div className='flex items-center gap-3 mt-8'>
+                    <div className='flex items-center gap-3 mt-36'>
                         <Button variant={"secondary"} className='cursor-pointer hover:scale-125 transition-all duration-700'>
                             <Twitter />
                         </Button>
