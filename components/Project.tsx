@@ -102,7 +102,7 @@ const Project = () => {
 
                         <Grid container spacing={4} mt={4}>
                             {filteredProjects.map((project) => (
-                                <Grid item xs={12} sm={6} md={3} key={project.id}>
+                                <Grid key={project.id}>
                                     <Card sx={{ borderRadius: 2, boxShadow: 3, backgroundColor: "transparent" }}>
                                         <CardMedia
                                             component="img"

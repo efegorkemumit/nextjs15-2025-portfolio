@@ -4,8 +4,6 @@ import {
     Carousel,
     CarouselContent,
     CarouselItem,
-    CarouselNext,
-    CarouselPrevious,
 } from "@/components/ui/carousel"
 import { User2 } from 'lucide-react';
 import { FaQuoteLeft } from 'react-icons/fa';

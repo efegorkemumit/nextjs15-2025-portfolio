@@ -44,7 +44,7 @@ const Footer = () => {
 
         <div>
           <h3 className="text-lg font-semibold mb-4">Subscribe</h3>
-          <p className="text-sm mb-4">Don't miss our latest updates on YouTube!</p>
+          <p className="text-sm mb-4">Don  `&apos;` t miss our latest updates on YouTube!</p>
           <Link
             href="https://youtube.com/c/efegorkemumit"
             target="_blank"
